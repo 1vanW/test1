@@ -1,0 +1,16 @@
+
+.box{
+    width: 1200px;
+    height: 100vh;
+    background-color: #000000;
+    margin: 0 auto;
+    display: flex;
+}
+.box__item{
+    width: 100px;
+    height: 100px;
+    background-color: #fff;
+    border: 1px solid red;
+    
+
+}
